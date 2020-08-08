@@ -1,0 +1,1 @@
+backmap6.exe load.map

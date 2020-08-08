@@ -1,0 +1,1 @@
+start TekwarRemake.exe -force-d3d9
